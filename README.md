@@ -3,7 +3,7 @@
 ## What is this repo?
 
 This repo is going to be one used for me to plan and track a learning
-experiment. I will be trying to learn [some amount of] programming languages in
+experiment. I will be trying to learn 6 programming languages in
 a quick amount of time.
 
 Each language will be a sprint of about 2 weeks. The first week will be strictly
